@@ -1,0 +1,20 @@
+Main view
+    Person list
+        Print person name (For each button -> Specific page)
+        Add new + -> Edit Page
+
+Specific
+    Bank account view
+        list of accounts (for each Name - number)
+        Add new + -> edit page2..?
+
+Edit page
+    Name
+    Accounts
+
+
+
+Data sending -> Intent?
+
+
+READ AND WRITE TO FILE

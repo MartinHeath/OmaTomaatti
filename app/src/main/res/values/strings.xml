@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OmaTomaatti</string>
+    <string name="action_settings">Asetukset</string>
+    <string name="add_new_person">Lisää Uusi Henkilö</string>
+    <string name="back">Takaisin</string>
+    <string name="remove_person">Poista Henkilö</string>
+    <string name="save">Tallenna</string>
+</resources>
